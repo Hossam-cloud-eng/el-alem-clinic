@@ -1,0 +1,11 @@
+﻿File,Link
+**README.md**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/README.md)
+**LICENSE**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/LICENSE)
+**CONTRIBUTING.md**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/CONTRIBUTING.md)
+**SECURITY.md**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/SECURITY.md)
+**CODE\_OF\_CONDUCT.md**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/CODE_OF_CONDUCT.md)
+**render.yaml**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/render.yaml)
+**vercel.json**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/vercel.json)
+**.env.example**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/.env.example)
+**Database Schema**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/database/schema.sql)
+**Docker Compose**,[Download](sandbox:///mnt/agents/output/el-alem-clinic/devops/docker/docker-compose.yml)
